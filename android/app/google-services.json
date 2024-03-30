@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "988064526121",
+    "project_id": "live-room-auth",
+    "storage_bucket": "live-room-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988064526121:android:f511109d5cea2ebe7c1138",
+        "android_client_info": {
+          "package_name": "com.fogaan_rooms.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn1zKJVH4qKCHVLUTPkSGwEBBpqGNVh7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
